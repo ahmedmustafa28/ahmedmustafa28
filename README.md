@@ -204,11 +204,7 @@ ML pipelines, Streamlit, data storytelling
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmustafa28&bg_color=0D1117&color=C9D1D9&line=A855F7&point=22D3EE&area=true&area_color=6D28D9&title_color=A855F7&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedmustafa28&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies"/>
+<!-- activity graph + trophies removed: their hosted services were down -->
 
 </div>
 
