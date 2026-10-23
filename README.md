@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/ahmedmustafa28/ahmedmustafa28/main/assets/banner.svg" width="100%" alt="Ahmed Mustafa. I build AI-powered web apps and train models on messy data."/>
 
-<img align="right" src="https://wsrv.nl/?url=github.com/ahmedmustafa28.png&w=300&h=300&fit=cover&mask=circle&output=png" width="150" alt="Ahmed"/>
-
 I'm a Software Engineering student at MUET and a Full Stack AI Engineer at [Aceva Technology](https://acevatech.com).
 
 Most of what I build sits between data and the web. I like taking a messy dataset, figuring out what it's actually saying, training something useful on it, and then turning it into an app that normal people can click through. I also used to be a Director of Visuals, so I care a lot about how things look.
@@ -10,8 +8,6 @@ Most of what I build sits between data and the web. I like taking a messy datase
 📚 &nbsp;**Learning** deep learning, LLM apps and agentic tooling<br/>
 🧪 &nbsp;**Logging** my [100 Days of Machine Learning](https://github.com/ahmedmustafa28/100-days-of-Machine-Learning)<br/>
 💬 &nbsp;**Ask me about** ML pipelines, NLP, Streamlit, data storytelling
-
-<br clear="right"/>
 
 <details>
 <summary><b>🎲 Two truths and a lie</b> (tap to play)</summary>
