@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<style>
+ .h{font:800 18px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;letter-spacing:3px}
+ .b{font:600 21px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#F1F5F9}
+ .b2{font:400 18px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#94A3B8}
+ .run{animation:run 4s linear infinite} @keyframes run{to{stroke-dashoffset:-1220}}
+ .halo{animation:h 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center} @keyframes h{0%,100%{transform:scale(1);opacity:.5}50%{transform:scale(1.25);opacity:1}}
+ .card{animation:up .8s ease-out both} @keyframes up{from{opacity:0;transform:translateY(20px)}}
+</style>
+
+<g transform="translate(10,10)" data-x="1" style="animation-delay:0.0s">
+ <rect width="383" height="230" rx="20" fill="#0D0A22" stroke="#A855F7" stroke-opacity=".55" stroke-width="2"/>
+ <rect width="383" height="230" rx="20" fill="none" stroke="#A855F7" stroke-width="3" stroke-dasharray="120 1100" class="run" style="animation-delay:-0s"/>
+ <circle cx="191" cy="70" r="36" fill="#A855F7" fill-opacity=".14" class="halo" style="animation-delay:0.0s"/>
+ <circle cx="191" cy="70" r="36" fill="none" stroke="#A855F7" stroke-opacity=".6"/>
+ <g transform="translate(191,72)" style="color:#A855F7"><path d="M-14 14 L6 -6 M2 -14 l12 12 -6 6 -12 -12z" stroke="currentColor" stroke-width="3" fill="none" stroke-linejoin="round"/></g>
+ <text x="191" y="140" text-anchor="middle" class="h" fill="#A855F7">BUILDING</text>
+ <text x="191" y="175" text-anchor="middle" class="b">AI-powered web apps</text>
+ <text x="191" y="200" text-anchor="middle" class="b2">for real clients at Aceva</text>
+</g>
+<g transform="translate(407,10)" data-x="1" style="animation-delay:0.25s">
+ <rect width="383" height="230" rx="20" fill="#0D0A22" stroke="#22D3EE" stroke-opacity=".55" stroke-width="2"/>
+ <rect width="383" height="230" rx="20" fill="none" stroke="#22D3EE" stroke-width="3" stroke-dasharray="120 1100" class="run" style="animation-delay:-1s"/>
+ <circle cx="191" cy="70" r="36" fill="#22D3EE" fill-opacity=".14" class="halo" style="animation-delay:0.5s"/>
+ <circle cx="191" cy="70" r="36" fill="none" stroke="#22D3EE" stroke-opacity=".6"/>
+ <g transform="translate(191,72)" style="color:#22D3EE"><path d="M-18 -8 L0 -16 L18 -8 L0 0z M-10 -4 v10 q10 8 20 0 v-10" stroke="currentColor" stroke-width="3" fill="none" stroke-linejoin="round"/></g>
+ <text x="191" y="140" text-anchor="middle" class="h" fill="#22D3EE">LEARNING</text>
+ <text x="191" y="175" text-anchor="middle" class="b">Deep learning, LLM apps</text>
+ <text x="191" y="200" text-anchor="middle" class="b2">&amp; agentic tooling</text>
+</g>
+<g transform="translate(804,10)" data-x="1" style="animation-delay:0.5s">
+ <rect width="383" height="230" rx="20" fill="#0D0A22" stroke="#F472B6" stroke-opacity=".55" stroke-width="2"/>
+ <rect width="383" height="230" rx="20" fill="none" stroke="#F472B6" stroke-width="3" stroke-dasharray="120 1100" class="run" style="animation-delay:-2s"/>
+ <circle cx="191" cy="70" r="36" fill="#F472B6" fill-opacity=".14" class="halo" style="animation-delay:1.0s"/>
+ <circle cx="191" cy="70" r="36" fill="none" stroke="#F472B6" stroke-opacity=".6"/>
+ <g transform="translate(191,72)" style="color:#F472B6"><path d="M-16 -12 h32 v20 h-18 l-8 8 v-8 h-6z" stroke="currentColor" stroke-width="3" fill="none" stroke-linejoin="round"/></g>
+ <text x="191" y="140" text-anchor="middle" class="h" fill="#F472B6">ASK ME ABOUT</text>
+ <text x="191" y="175" text-anchor="middle" class="b">ML pipelines, Streamlit</text>
+ <text x="191" y="200" text-anchor="middle" class="b2">&amp; data storytelling</text>
+</g>
+</svg>

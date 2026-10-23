@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#22D3EE"/>
+ <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+ <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A855F7" stop-opacity="0"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+ <filter id="gl"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+ .t{font:900 46px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;letter-spacing:1px}
+ .n{font:700 16px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#22D3EE;letter-spacing:4px}
+ .s{animation:sweep 3s ease-in-out infinite}
+ @keyframes sweep{0%{transform:translateX(-300px);opacity:0}20%{opacity:1}80%{opacity:1}100%{transform:translateX(300px);opacity:0}}
+ .in{animation:in .9s ease-out both}
+ @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<g>
+ <text x="600" y="28" text-anchor="middle" class="n">03  //  select --role</text>
+ <text x="600" y="78" text-anchor="middle" class="t" fill="url(#g)" filter="url(#gl)">CHOOSE YOUR PLAYER</text>
+</g>
+<rect x="300" y="96" width="600" height="2" fill="url(#ln)"/>
+<rect x="560" y="94" width="80" height="6" rx="3" fill="#22D3EE" class="s" filter="url(#gl)"/>
+</svg>
