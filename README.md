@@ -2,6 +2,8 @@
      ║                      AHMED MUSTAFA  ·  README                        ║
      ╚══════════════════════════════════════════════════════════════════════╝ -->
 
+<a id="top"></a>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E1B4B,100:6D28D9&height=270&section=header&text=Ahmed%20Mustafa&fontSize=82&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&stroke=A855F7&strokeWidth=2&desc=FULL%20STACK%20AI%20ENGINEER%20%20%E2%80%A2%20%20ML%20%2F%20NLP%20%20%E2%80%A2%20%20DATA&descSize=18&descAlignY=58" width="100%" alt="Ahmed Mustafa"/>
@@ -25,11 +27,23 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ahmedmustafa28" target="_blank" rel="noopener noreferrer"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.iconify.design%2Fsimple-icons%2Fgithub.svg%3Fcolor%3Dwhite%26width%3D100%26height%3D200&w=200&h=200&fit=contain&cbg=181717&bg=181717&mask=circle&mbg=transparent&output=png" width="48" height="48" alt="GitHub" title="GitHub"/></a>
 
+<br/><br/>
+
+<!-- quick-jump nav: every badge scrolls to its section -->
+<a href="#about"><img src="https://img.shields.io/badge/%E2%9A%A1%20ABOUT-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=1E1B4B" alt="⚡ ABOUT"/></a>
+<a href="#right-now"><img src="https://img.shields.io/badge/%E2%8F%B3%20RIGHT%20NOW-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=1E1B4B" alt="⏳ RIGHT NOW"/></a>
+<a href="#pick-your-path"><img src="https://img.shields.io/badge/%F0%9F%A7%AD%20PICK%20YOUR%20PATH-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=1E1B4B" alt="🧭 PICK YOUR PATH"/></a>
+<a href="#arsenal"><img src="https://img.shields.io/badge/%F0%9F%9B%A0%20ARSENAL-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=1E1B4B" alt="🛠 ARSENAL"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/%F0%9F%94%A5%20STATS-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=1E1B4B" alt="🔥 STATS"/></a>
+<a href="#say-hi"><img src="https://img.shields.io/badge/%F0%9F%91%8B%20SAY%20HI-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=6D28D9" alt="👋 SAY HI"/></a>
+
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<a id="about"></a>
 
 <!-- ═══════════════════════════════════ ABOUT ═══════════════════════════════════ -->
 
@@ -83,6 +97,25 @@ print(me.motto())
 
 </details>
 
+<details>
+<summary><b>🎲 &nbsp;Mini-game: Two Truths &amp; a Lie (tap to play)</b></summary>
+<br/>
+
+> **1.** I used to be a *Director of Visuals* before I wrote production code.<br/>
+> **2.** I speak three languages: Sindhi, Urdu and English.<br/>
+> **3.** I have never written a single line of JavaScript.
+
+<details>
+<summary>🤔 &nbsp;Made your guess? Tap to reveal</summary>
+<br/>
+
+**#3 is the lie!** JavaScript and TypeScript are in my daily toolkit, scroll down to the arsenal and you'll see them. The other two are 100% true. 🎯
+
+</details>
+</details>
+
+<a id="right-now"></a>
+
 <!-- ═══════════════════════════════ RIGHT NOW ═══════════════════════════════ -->
 <!-- Tip: refresh these three boxes every few weeks — fresh content is what brings people back. -->
 
@@ -110,33 +143,92 @@ ML pipelines, Streamlit, data storytelling
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<details open>
+<summary><b>⚙️ &nbsp;How I ship an AI product</b></summary>
+<br/>
 
-<!-- ═════════════════════════════ FEATURED PROJECTS ═════════════════════════════ -->
+```mermaid
+flowchart LR
+    A([🗂️ Raw data]) --> B[🧹 Clean & explore]
+    B --> C[🧠 Train & evaluate]
+    C --> D[🔌 Wrap in an API]
+    D --> E[🎨 Build the UI]
+    E --> F([🚀 Ship it live])
+    F -. feedback .-> B
+    style A fill:#1E1B4B,stroke:#A855F7,color:#fff
+    style F fill:#6D28D9,stroke:#A855F7,color:#fff
+```
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="36" height="36" alt=""/>&nbsp; Featured Projects &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="36" height="36" alt=""/></h2>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=1100&color=22D3EE&center=true&vCenter=true&repeat=true&width=600&height=36&lines=Things+I've+built%2C+trained+and+shipped;Click+a+card+to+explore+the+code" alt="Things I've built"/></p>
-
-<div align="center">
-
-<a href="https://github.com/ahmedmustafa28/life-translator"><img src="https://github-stats-extended.vercel.app/api/pin?username=ahmedmustafa28&repo=life-translator&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12&description_lines_count=3" width="49%" alt="life-translator"/></a>
-<a href="https://github.com/ahmedmustafa28/sentinel-vision"><img src="https://github-stats-extended.vercel.app/api/pin?username=ahmedmustafa28&repo=sentinel-vision&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12&description_lines_count=3" width="49%" alt="sentinel-vision"/></a>
-<a href="https://github.com/ahmedmustafa28/Olympics-Data-Analysis"><img src="https://github-stats-extended.vercel.app/api/pin?username=ahmedmustafa28&repo=Olympics-Data-Analysis&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12&description_lines_count=3" width="49%" alt="Olympics-Data-Analysis"/></a>
-<a href="https://github.com/ahmedmustafa28/Credit-Card-Fraud-Detection"><img src="https://github-stats-extended.vercel.app/api/pin?username=ahmedmustafa28&repo=Credit-Card-Fraud-Detection&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12&description_lines_count=3" width="49%" alt="Credit-Card-Fraud-Detection"/></a>
-<a href="https://github.com/ahmedmustafa28/infosec-file-encryption-project"><img src="https://github-stats-extended.vercel.app/api/pin?username=ahmedmustafa28&repo=infosec-file-encryption-project&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12&description_lines_count=3" width="49%" alt="infosec-file-encryption-project"/></a>
-<a href="https://github.com/ahmedmustafa28/WhatsApp-Chat-Analyzer"><img src="https://github-stats-extended.vercel.app/api/pin?username=ahmedmustafa28&repo=WhatsApp-Chat-Analyzer&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&border_radius=12&description_lines_count=3" width="49%" alt="WhatsApp-Chat-Analyzer"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/ahmedmustafa28/100-days-of-Machine-Learning"><img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-100%20DAYS%20OF%20MACHINE%20LEARNING-A855F7?style=for-the-badge&labelColor=0D1117&logo=scikitlearn&logoColor=F7931E" alt="100 Days of ML"/></a>
-<a href="https://github.com/ahmedmustafa28?tab=repositories"><img src="https://img.shields.io/badge/SEE-ALL%20REPOSITORIES-22D3EE?style=for-the-badge&labelColor=0D1117&logo=github" alt="All repositories"/></a>
-
-</div>
+</details>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<a id="pick-your-path"></a>
+
+<!-- ═════════════════════════════ PICK YOUR PATH ═════════════════════════════ -->
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="36" height="36" alt=""/>&nbsp; Pick Your Path &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="36" height="36" alt=""/></h2>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=1100&color=22D3EE&center=true&vCenter=true&repeat=true&width=600&height=36&lines=Who+are+you%3F+Tap+a+card+below+%F0%9F%91%87;I'll+show+you+what+matters+most" alt="Pick your path"/></p>
+
+<details>
+<summary><b>💼 &nbsp;I'm a recruiter</b></summary>
+<br/>
+
+- ✅ Software Engineering undergrad at **MUET**, already shipping for real clients at **[Aceva Technology](https://acevatech.com)**
+- ✅ Comfortable across the stack: **Python · ML/NLP · TypeScript · web apps · deployment**
+- ✅ Status: **open to opportunities**
+
+<a href="https://www.linkedin.com/in/ahmed-mustafa-baa587290"><img src="https://img.shields.io/badge/VIEW-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117"/></a>
+<a href="mailto:bhurgrimustafa203@gmail.com?subject=Opportunity%20for%20Ahmed"><img src="https://img.shields.io/badge/SEND-AN%20OFFER-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+
+</details>
+
+<details>
+<summary><b>🤝 &nbsp;I want something built</b></summary>
+<br/>
+
+I build **AI-integrated web apps, data dashboards and ML pipelines**, from first idea to live deployment.
+
+1. You tell me the problem 🗣️
+2. I prototype fast and show you something clickable ⚡
+3. We polish it and ship it to production 🚀
+
+<a href="https://acevatech.com"><img src="https://img.shields.io/badge/HIRE%20US-ACEVATECH.COM-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:bhurgrimustafa203@gmail.com?subject=Project%20idea"><img src="https://img.shields.io/badge/PITCH-YOUR%20IDEA-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+
+</details>
+
+<details>
+<summary><b>👨‍💻 &nbsp;I'm a fellow developer</b></summary>
+<br/>
+
+- 🔍 Dig through my code, every repo is open for exploring
+- ⭐ Found something useful? A star makes my day
+- 🍴 Fork it, break it, improve it, send a PR
+
+<a href="https://github.com/ahmedmustafa28?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL%20REPOSITORIES-22D3EE?style=for-the-badge&logo=github&labelColor=0D1117"/></a>
+<a href="https://github.com/ahmedmustafa28?tab=followers"><img src="https://img.shields.io/badge/LET'S-CONNECT-818CF8?style=for-the-badge&logo=github&labelColor=0D1117"/></a>
+
+</details>
+
+<details>
+<summary><b>🎓 &nbsp;I'm a student learning ML</b></summary>
+<br/>
+
+I'm learning in public. Follow along with my **100 Days of Machine Learning** journey, notebooks and all.
+
+<a href="https://github.com/ahmedmustafa28/100-days-of-Machine-Learning"><img src="https://img.shields.io/badge/START-100%20DAYS%20OF%20ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=0D1117"/></a>
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<a id="arsenal"></a>
 
 <!-- ═════════════════════════════════ TECH STACK ═════════════════════════════════ -->
 
@@ -186,6 +278,8 @@ ML pipelines, Streamlit, data storytelling
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<a id="stats"></a>
+
 <!-- ═══════════════════════════════ GITHUB ANALYTICS ═══════════════════════════════ -->
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="36" height="36" alt=""/>&nbsp; GitHub Analytics &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="36" height="36" alt=""/></h2>
@@ -228,6 +322,18 @@ ML pipelines, Streamlit, data storytelling
 <!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ -->
 
 <div align="center">
+
+<a id="say-hi"></a>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" height="34" alt=""/>&nbsp; Say Hi! &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" height="34" alt=""/></h2>
+
+<p>Got an idea, a question, or just want to talk ML? My inbox is open.</p>
+
+<a href="mailto:bhurgrimustafa203@gmail.com?subject=Hey%20Ahmed%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/%F0%9F%93%A8%20DROP%20ME%20A%20LINE-A855F7?style=for-the-badge&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/ahmed-mustafa-baa587290"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0D1117"/></a>
+<a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86%20BACK%20TO-TOP-22D3EE?style=for-the-badge&labelColor=0D1117"/></a>
+
+<br/><br/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" height="30" alt=""/> &nbsp;Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="26" height="26" alt="love"/> and a lot of Python &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" height="30" alt=""/></h3>
 
